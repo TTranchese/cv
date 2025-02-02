@@ -1,7 +1,7 @@
-PWD C:\_WA\cv
+PWD C:\_WA\cv\en
 INPUT C:\Users\tomma\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT cv-lit.tex
-OUTPUT C:\_WA\cv\build\cv-lit.log
+OUTPUT C:\_WA\cv\en\build\cv-lit.log
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\curve\curve.cls
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\curve\curve.cls
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\carlisle\ltxtable.sty
@@ -244,7 +244,7 @@ INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzl
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT C:\_WA\cv\build\cv-lit.pdf
+OUTPUT C:\_WA\cv\en\build\cv-lit.pdf
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\comment\comment.sty
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\comment\comment.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
@@ -327,18 +327,18 @@ INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\cochineal\t1cochineal-tlf.
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-tlf-swash-t1.tfm
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\inconsolata\zi4.sty
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\inconsolata\zi4.sty
-OUTPUT C:\_WA\cv\build\comment.cut
-INPUT C:\_WA\cv\build\comment.cut
-INPUT C:\_WA\cv\build\comment.cut
-INPUT C:\_WA\cv\build\comment.cut
+OUTPUT C:\_WA\cv\en\build\comment.cut
+INPUT C:\_WA\cv\en\build\comment.cut
+INPUT C:\_WA\cv\en\build\comment.cut
+INPUT C:\_WA\cv\en\build\comment.cut
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\cochineal\t1cochineal-osf.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\cochineal\t1cochineal-osf.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\cochineal\t1cochineal-osf.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
-INPUT C:\_WA\cv\build\cv-lit.aux
-INPUT C:\_WA\cv\build\cv-lit.aux
-INPUT C:\_WA\cv\build\cv-lit.aux
-OUTPUT C:\_WA\cv\build\cv-lit.aux
+INPUT C:\_WA\cv\en\build\cv-lit.aux
+INPUT C:\_WA\cv\en\build\cv-lit.aux
+INPUT C:\_WA\cv\en\build\cv-lit.aux
+OUTPUT C:\_WA\cv\en\build\cv-lit.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -348,13 +348,13 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
-OUTPUT C:\_WA\cv\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
+OUTPUT C:\_WA\cv\en\build\cv-lit.out
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
@@ -371,16 +371,14 @@ INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\inconsolata\t1zi4.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\inconsolata\t1-zi4r-5.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\simpleicons\usimpleiconsonethree.fd
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\simpleicons\usimpleiconsonethree.fd
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\simpleicons\usimpleiconsonethree.fd
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\simpleicons\SimpleIcons--simpleiconsonethree.tfm
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\fontawesome5\fa5brands0.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1solid.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
@@ -389,12 +387,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\pas-cv\photo.png
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT .\photo.jpg
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
 INPUT .\employment.tex
 INPUT .\employment.tex
 INPUT employment.tex
@@ -406,7 +406,6 @@ INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomef
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\fontawesome5\fa5free0solid.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1.tfm
 INPUT .\employment.tex
 INPUT .\employment.tex
 INPUT employment.tex
@@ -419,7 +418,6 @@ INPUT employment.tex
 INPUT .\education.tex
 INPUT .\education.tex
 INPUT education.tex
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1.tfm
 INPUT .\education.tex
 INPUT .\education.tex
 INPUT education.tex
@@ -442,6 +440,23 @@ INPUT skills.tex
 INPUT .\skills.tex
 INPUT .\skills.tex
 INPUT skills.tex
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
+INPUT C:\Users\tomma\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cabin\cbn_i3ioen.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cochineal\coch_qyvxxn.enc
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
+INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
 INPUT .\misc.tex
 INPUT .\misc.tex
 INPUT misc.tex
@@ -457,41 +472,18 @@ INPUT misc.tex
 INPUT .\misc.tex
 INPUT .\misc.tex
 INPUT misc.tex
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
-INPUT C:\Users\tomma\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cabin\cbn_i3ioen.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\inconsolata\i4-t1-5.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\simpleicons\simpleiconsonethree.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cochineal\coch_mzvjrl.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Bold-osf-swash-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Bold-osf-swash-t1--base.tfm
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cochineal\coch_qyvxxn.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Italic-osf-swash-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Italic-osf-swash-t1--base.tfm
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-sc-t1.vf
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-sc-t1--base.tfm
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\enc\dvips\cochineal\coch_rftgut.enc
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\public\cochineal\Cochineal-Roman-osf-swash-t1.vf
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\public\cochineal\Cochineal-Roman-osf-swash-t1--base.tfm
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\vf\impallari\cabin\Cabin-Bold-tlf-t1.vf
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\tfm\impallari\cabin\Cabin-Bold-tlf-t1--base.tfm
-INPUT C:\_WA\cv\build\cv-lit.aux
-INPUT C:\_WA\cv\build\cv-lit.out
-INPUT C:\_WA\cv\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.aux
+INPUT C:\_WA\cv\en\build\cv-lit.out
+INPUT C:\_WA\cv\en\build\cv-lit.out
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\impallari\cabin\Cabin-Bold.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\impallari\cabin\Cabin-Bold.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Bold.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Bold.pfb
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Italic.pfb
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Italic.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Roman.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\cochineal\Cochineal-Roman.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Brands-Regular.pfb
@@ -502,7 +494,3 @@ INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\fontawesome5\Font
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\inconsolata\Inconsolata-zi4r.pfb
 INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\inconsolata\Inconsolata-zi4r.pfb
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\simpleicons\SimpleIcons.pfb
-INPUT C:\Users\tomma\AppData\Roaming\MiKTeX\fonts\type1\public\simpleicons\SimpleIcons.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
